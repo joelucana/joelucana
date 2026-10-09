@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joel Lucana</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🔭 I’m currently working on **Portal Admin Offshore of bank BTG Pactual**
+- 🔭 My last work is **Portal Admin Offshore of bank BTG Pactual**
 
-- 🌱 I’m currently learning **Golang, React, AWS and Python**
+- 🌱 I’m currently learning **Golang, LLM IA, AWS and Python**
 
 - 💬 Ask me about **nodesjs, aws, laravel and golang**
 
-- 📫 How to reach me **c.l18272@gmail.com**
+- 📫 How to reach me **contact.joelucana@gmail.com**
 
 - ⚡ Fun fact **I love videogames and learning too much**
 
